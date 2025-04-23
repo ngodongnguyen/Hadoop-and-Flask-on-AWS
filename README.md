@@ -1,7 +1,3 @@
-Để tạo một tệp **README.md** trên GitHub cho dự án này, bạn cần tổ chức thông tin một cách rõ ràng và dễ hiểu, bao gồm các bước triển khai và các chi tiết quan trọng. Dưới đây là một ví dụ về cách bạn có thể thiết kế tệp README cho hướng dẫn này:
-
----
-
 # **Hướng dẫn triển khai hệ thống Hadoop với EC2 và Web Server trên AWS**
 
 ## **Giới thiệu**
