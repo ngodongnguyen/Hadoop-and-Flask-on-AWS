@@ -31,9 +31,9 @@ db = SQLAlchemy(app)
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'  # Ví dụ sử dụng Gmail
 app.config['MAIL_PORT'] = 465
 app.config['MAIL_USE_SSL'] = True
-app.config['MAIL_USERNAME'] = 'ngodongnguyen27@gmail.com'  # Thay bằng email của bạn
-app.config['MAIL_PASSWORD'] = 'mbtt ksdj wlhn fupd'  # Thay bằng mật khẩu email của bạn
-app.config['MAIL_DEFAULT_SENDER'] = 'ngodongnguyen27@gmail.com'
+app.config['MAIL_USERNAME'] = 'your email'  # Thay bằng email của bạn
+app.config['MAIL_PASSWORD'] = 'your password'  # Thay bằng mật khẩu email của bạn
+app.config['MAIL_DEFAULT_SENDER'] = 'your email'
 mail = Mail(app)
 
 
