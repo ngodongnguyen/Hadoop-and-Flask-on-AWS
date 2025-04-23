@@ -927,4 +927,17 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+.welcome-message {
+  font-size: 1.2rem; /* Kích thước chữ */
+  color: blue; /* Màu chữ trắng */
+  font-weight: bold; /* Đậm chữ */
+  font-family: 'Roboto', sans-serif; /* Phông chữ đẹp */
+  border-radius: 5px; /* Bo góc */
+  padding: 5px 10px; /* Padding xung quanh */
+  margin-left: 10px; /* Cách lề trái */
+}
+.black-text {
+  margin-top: 50px !important;
+  color: black !important;
+}
 /*# sourceMappingURL=style.css.map */
